@@ -1,0 +1,15 @@
+E:\Coding\Dotnet\WhileIteration\bin\Debug\net6.0\WhileIteration.exe
+E:\Coding\Dotnet\WhileIteration\bin\Debug\net6.0\WhileIteration.deps.json
+E:\Coding\Dotnet\WhileIteration\bin\Debug\net6.0\WhileIteration.runtimeconfig.json
+E:\Coding\Dotnet\WhileIteration\bin\Debug\net6.0\WhileIteration.dll
+E:\Coding\Dotnet\WhileIteration\bin\Debug\net6.0\WhileIteration.pdb
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.csproj.AssemblyReference.cache
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.AssemblyInfoInputs.cache
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.AssemblyInfo.cs
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.csproj.CoreCompileInputs.cache
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.dll
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\refint\WhileIteration.dll
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.pdb
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\WhileIteration.genruntimeconfig.cache
+E:\Coding\Dotnet\WhileIteration\obj\Debug\net6.0\ref\WhileIteration.dll

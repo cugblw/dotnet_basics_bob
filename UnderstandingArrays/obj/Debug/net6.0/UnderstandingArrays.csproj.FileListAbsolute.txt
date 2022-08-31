@@ -1,0 +1,15 @@
+E:\Coding\Dotnet\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.exe
+E:\Coding\Dotnet\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.deps.json
+E:\Coding\Dotnet\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.runtimeconfig.json
+E:\Coding\Dotnet\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.dll
+E:\Coding\Dotnet\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.pdb
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.csproj.AssemblyReference.cache
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.AssemblyInfoInputs.cache
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.AssemblyInfo.cs
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.csproj.CoreCompileInputs.cache
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.dll
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\refint\UnderstandingArrays.dll
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.pdb
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.genruntimeconfig.cache
+E:\Coding\Dotnet\UnderstandingArrays\obj\Debug\net6.0\ref\UnderstandingArrays.dll

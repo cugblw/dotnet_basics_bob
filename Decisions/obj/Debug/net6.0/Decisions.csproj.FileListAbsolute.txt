@@ -1,0 +1,15 @@
+E:\Coding\Dotnet\Decisions\bin\Debug\net6.0\Decisions.exe
+E:\Coding\Dotnet\Decisions\bin\Debug\net6.0\Decisions.deps.json
+E:\Coding\Dotnet\Decisions\bin\Debug\net6.0\Decisions.runtimeconfig.json
+E:\Coding\Dotnet\Decisions\bin\Debug\net6.0\Decisions.dll
+E:\Coding\Dotnet\Decisions\bin\Debug\net6.0\Decisions.pdb
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.csproj.AssemblyReference.cache
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.AssemblyInfoInputs.cache
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.AssemblyInfo.cs
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.csproj.CoreCompileInputs.cache
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.dll
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\refint\Decisions.dll
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.pdb
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\Decisions.genruntimeconfig.cache
+E:\Coding\Dotnet\Decisions\obj\Debug\net6.0\ref\Decisions.dll

@@ -1,0 +1,15 @@
+E:\Coding\Dotnet\SimpleClasses\bin\Debug\net6.0\SimpleClasses.exe
+E:\Coding\Dotnet\SimpleClasses\bin\Debug\net6.0\SimpleClasses.deps.json
+E:\Coding\Dotnet\SimpleClasses\bin\Debug\net6.0\SimpleClasses.runtimeconfig.json
+E:\Coding\Dotnet\SimpleClasses\bin\Debug\net6.0\SimpleClasses.dll
+E:\Coding\Dotnet\SimpleClasses\bin\Debug\net6.0\SimpleClasses.pdb
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.AssemblyReference.cache
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.dll
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\refint\SimpleClasses.dll
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.pdb
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\SimpleClasses.genruntimeconfig.cache
+E:\Coding\Dotnet\SimpleClasses\obj\Debug\net6.0\ref\SimpleClasses.dll

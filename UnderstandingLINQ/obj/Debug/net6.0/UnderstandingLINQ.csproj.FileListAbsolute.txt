@@ -1,0 +1,15 @@
+E:\Coding\Dotnet\UnderstandingLINQ\bin\Debug\net6.0\UnderstandingLINQ.exe
+E:\Coding\Dotnet\UnderstandingLINQ\bin\Debug\net6.0\UnderstandingLINQ.deps.json
+E:\Coding\Dotnet\UnderstandingLINQ\bin\Debug\net6.0\UnderstandingLINQ.runtimeconfig.json
+E:\Coding\Dotnet\UnderstandingLINQ\bin\Debug\net6.0\UnderstandingLINQ.dll
+E:\Coding\Dotnet\UnderstandingLINQ\bin\Debug\net6.0\UnderstandingLINQ.pdb
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.csproj.AssemblyReference.cache
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.AssemblyInfoInputs.cache
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.AssemblyInfo.cs
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.dll
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\refint\UnderstandingLINQ.dll
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.pdb
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\UnderstandingLINQ.genruntimeconfig.cache
+E:\Coding\Dotnet\UnderstandingLINQ\obj\Debug\net6.0\ref\UnderstandingLINQ.dll
